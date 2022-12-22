@@ -1,0 +1,51 @@
+body{
+  background-color: antiquewhite;
+  }
+  section h3{
+  text-align: center;
+  font-size:2.5rem;
+  color: blue
+  }
+  form{
+  background-color: white;
+  padding:20px;
+  border-radius: 10px;
+  width: 420px;
+  margin: auto;
+  min-height: 200px;
+  }
+  div{
+  margin-bottom: 10px;
+  }
+  label{
+  display: block;
+  margin-bottom: 5px;
+  }
+  input {
+  height:30px;
+  width:400px;
+  border:1px solid skyblue;
+  border-radius: 5px;
+  }
+  span{
+  font-size:0.9rem;
+  font-weight: bold;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  }
+  .horizontal {
+  margin-top: 20px;
+  width:400px;
+  border-bottom: 1px solid skyblue;
+  }
+  button{
+  width:100px;
+  padding: 10px;
+  background: rgb(68, 68, 255);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
